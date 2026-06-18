@@ -1,0 +1,21 @@
+                       // How to Copy an Object (Shallow vs. Deep)
+
+      // Shallow Copy (The 99% Use Case)
+const originalUser = {
+  name: "Alice",
+  age: 30,
+  address: { // A nested object
+    city: "New York"
+  }
+};
+
+const shallowCopy = { ...originalUser };     // copy of orignalobject
+
+shallowCopy.age = 31;   /// change the value
+
+console.log(originalUser.age); // 30 (The original is safe!)
+console.log(shallowCopy.age);  // 31 (The copy was changed)
+
+             // Deep Copy (For Complex, Nested Objects)
+
+             
