@@ -85,7 +85,7 @@ function name(){
        console.log(a+b);
 }               
 
-console.log(name())
+// console.log(name())
 
 const fun = function name(){   // function can be store inside the variable
        let a = 12;
