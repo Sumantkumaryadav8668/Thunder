@@ -17,7 +17,7 @@
 // console.log(a)
 
             // 3> let 
-let a = 15;
+let a = 16;
 // let a = 25; // same variable not allow in let 
 // console.log(a)            
 
