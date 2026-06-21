@@ -34,7 +34,7 @@
 // console.log(num!==str)
 
                       // Loos Equality Operator
-const num = 20;
+const num = 30;
 const num1 = '20'
 console.log(num==num1)
 
