@@ -62,6 +62,6 @@
 // console.log(typeof NaN)
 
 
-console.log(Math.round(25.4))     // decide the nearest value of the number
+console.log(Math.round(95.4))     // decide the nearest value of the number
 console.log(Math.trunc(25.454564))    // remove the decimal part
 console.log(Math.pow(25,2))
