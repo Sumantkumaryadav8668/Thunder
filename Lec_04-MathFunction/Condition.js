@@ -11,7 +11,7 @@
 
           // if-else condition
     // check the eligible for vote or not
-const age = 89;
+const age = 79;
 
 if(age<18){
     console.log('you are not eligible for vote')
