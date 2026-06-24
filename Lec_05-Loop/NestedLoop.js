@@ -89,7 +89,7 @@
 
         // print row wise continuous Alphabets pattern 
         
-for(let i=1; i<=5; i++){
+for(let i=1; i<6; i++){
     let str = "";
 
     for(let j=1; j<=5; j++){
