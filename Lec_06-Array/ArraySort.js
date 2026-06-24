@@ -17,6 +17,6 @@
                     // Flattening Arrays: The .flat() Method
          // this method is remove the muiti dimensiional
 
-const arr = [10,51,98,[45,86,52],45];
+const arr = [10,51,98,[45,86,0.25,52],45];
 
 console.log(arr.flat());  // remove multi dimensional array
