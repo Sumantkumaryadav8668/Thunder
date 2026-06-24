@@ -19,6 +19,6 @@
 // console.log(arr.lastIndexOf(100));   // -1        
 
          // .includes(item)
-// console.log(arr.includes(56))   // return true
-// console.log(arr.includes(100));  // return false 
+console.log(arr.includes(56))   // return true
+console.log(arr.includes(100));  // return false 
 
