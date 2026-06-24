@@ -21,8 +21,8 @@
 // } 
 
                          // 2> Do While loop
-// let i = 0;
-// do{
-//     console.log('hello sumant');
-//     i++;
-// }while(i<5);  
+let i = 0;
+do{
+    console.log('hello sumant');
+    i++;
+}while(i<5);  
