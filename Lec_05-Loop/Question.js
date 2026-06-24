@@ -59,7 +59,7 @@
 
                                          // Working with Array 
          // print all number in given array using loop
-let arr = [10,56,84,'sumant',2.256,true]
+let arr = [10,56,84,'sumant',2.2556,true]
 let largest = arr[0]
 
 for(let i=0; i<arr.length; i++){
