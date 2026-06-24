@@ -73,7 +73,7 @@
 // console.log(arr);
 
                              // Print the all elements in the array using loop
-let arr = [56,52,156];
+let arr = [56,52,236,156];
 let sum = 0;
 
 for(let i=0; i<arr.length; i++){
