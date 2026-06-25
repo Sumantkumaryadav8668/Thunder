@@ -19,8 +19,8 @@
 
                   // The slice() Method
 
-// let folower = ['Lotus','Lavender','Rose','Sunfoloer','Lily','Marigold','Mogra','Jasmine']
-// // console.log(folower);
+let folower = ['Lotus','Lavender','Rose','Sunfoloer','Lily','Marigold','Mogra','Jasmine']
+// console.log(folower);
 
-// let result = folower.slice(1,3);   // get elements particular given insex (start index, end index)
-// console.log(result);
+let result = folower.slice(1,3);   // get elements particular given insex (start index, end index)
+console.log(result);
