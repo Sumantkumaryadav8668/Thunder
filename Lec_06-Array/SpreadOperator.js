@@ -9,5 +9,5 @@ let flower = ['lotus','rose','sunflower','lily'];
 
                      // Add another element in side the add two array
 
-let result = [...fruit,20,110,true,...flower];
+let result = [...fruit,110,true,...flower];
 console.log(result);                     
