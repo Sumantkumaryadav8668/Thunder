@@ -7,7 +7,7 @@ const olduser = {
     }
 } 
 
-olduser.name();
+// olduser.name();
 
         // new method that means sortthand mehtod
 const newuser = {
