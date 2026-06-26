@@ -4,7 +4,7 @@ const person = {
     name: "Alice",
     age: 25,
     city: "NYC",
-    country: "USA"
+    country: "India"
 };
 
   // Rest: Collect remaining properties
