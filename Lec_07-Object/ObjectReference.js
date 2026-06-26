@@ -15,7 +15,7 @@ let fruit = {name : 'apple',weight : '25'};
 
 let copy = {...fruit};
 copy.name = 'papaya';
-copy.weight = 32;
+copy.weight = 320;
 
 console.log(fruit.weight);  // actual value
 console.log(copy.weight);   // copy value then change the value
