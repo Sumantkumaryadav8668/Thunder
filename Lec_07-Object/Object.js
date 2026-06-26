@@ -53,7 +53,7 @@ let college = {
     name : 'IES college of technology',
     course : 'B.Tech',
     branch : 'CSE',
-    fee : 800000,
+    fee : 8000000,
     teacher : 'all teacher'
 }               
 
