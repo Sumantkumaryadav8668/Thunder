@@ -1,0 +1,90 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#1e293b;
+
+}
+
+.container{
+
+    background:#334155;
+    padding:30px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 10px 30px black;
+
+}
+
+h1{
+
+    color:white;
+    margin-bottom:10px;
+    font-size:40px;
+
+}
+
+h3{
+
+    color:#cbd5e1;
+    margin-bottom:25px;
+
+}
+             /* Tic Tac Toe Board */
+#board{
+
+    display:grid;
+    grid-template-columns:repeat(3,90px);
+    gap:5px;
+
+}
+
+.box{
+
+    height:90px;
+    width:90px;
+    border:none;
+    border-radius:6px;
+    background:white;
+    font-size:45px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:0.3s;
+
+}
+
+.box:hover{
+
+    background:#bae6fd;
+    transform:scale(1.05);
+
+}
+                /* Restart Button */
+#restart{
+
+    margin-top:25px;
+    padding:12px 35px;
+    border:none;
+    border-radius:20px;
+    background:#38bdf8;
+    color:white;
+    font-size:18px;
+    cursor:pointer;
+
+}
+
+#restart:hover{
+
+    background:#0284c7;
+
+}
