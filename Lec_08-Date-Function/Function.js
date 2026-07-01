@@ -82,5 +82,5 @@ function fun(){
     console.log(localvar);
 }
 
-fun();
+fun();    // function call
 console.log(localvar);  // Reference error
