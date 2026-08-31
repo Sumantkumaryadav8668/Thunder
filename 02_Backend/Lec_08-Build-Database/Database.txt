@@ -1,0 +1,10 @@
+[
+  {
+    "account": "1001",
+    "name": "Sumant",
+    "email": "sumant@123",
+    "age": 21,
+    "city": "palamu",
+    "balance": 30300
+  }
+]
